@@ -9,7 +9,7 @@
   <a href="https://github.com/HOSTER-noob">
     <img src="https://img.shields.io/badge/GITHUB-HOSTER--NOOB-151515?style=for-the-badge&logo=github&logoColor=F2F2F2" alt="GitHub: HOSTER-noob">
   </a>
-  <a href="https://github.com/HOSTER-noob/portfolio">
+  <a href="https://krytonix-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_SOURCE-151515?style=for-the-badge&logo=googlechrome&logoColor=F2F2F2" alt="View portfolio source">
   </a>
   <a href="mailto:krytonixdev@gmail.com">
@@ -57,7 +57,7 @@ A custom Discord bot for server management, automation and more.
 A dark, pixel-inspired showcase for my web, app and Minecraft work.
 
 <div align="center">
-  <a href="https://github.com/HOSTER-noob/portfolio">
+  <a href="https://krytonix-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-222222?style=for-the-badge&logo=github&logoColor=F2F2F2" alt="Explore portfolio repository">
   </a>
 </div>
